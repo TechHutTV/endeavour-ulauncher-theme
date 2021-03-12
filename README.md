@@ -1,6 +1,4 @@
-Transparent with dark gey and purple accent theme for Ulauncher inspired by the defult colors from the Endeavouros i3WM configuration. 
-
-A theme for Ulauncher using the dark colors, transparent blur background, and purple accent colors.
+EnndeavourOS inspired Ulauncher theme. Using the color codes in the i3WM configuration file from EndeavourOS. Transparent greys with purple and blue accents. Fork of https://github.com/lifeofcoding/transparent-blue-accent-ulauncher-theme.
 
 ![Screenshot](./screenshot.png?raw=true)
 
