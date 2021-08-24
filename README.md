@@ -4,7 +4,7 @@ EndeavourOS inspired Ulauncher theme. Using the color codes in the i3WM configur
 
 # Featured Video
 
-https://youtu.be/BjboNa7hu5o
+[![Watch the video](https://img.youtube.com/vi/oO9ytyS5laQ/maxresdefault.jpg)](https://youtu.be/oO9ytyS5laQ)
 
 # Installation
 
